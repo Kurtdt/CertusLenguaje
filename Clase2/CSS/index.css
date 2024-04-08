@@ -1,0 +1,36 @@
+*{
+    background-color: violet;
+}
+h1,h2{
+    color: aqua;
+    font-size: 120px;
+}
+
+p{
+    color: blue;
+    font-size: 14x;
+}
+#boss{
+    color: brown;
+}
+.presentation{
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200px;
+    background-color: yellow;
+}
+section{
+    border: solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 2000px;
+}
+div{
+    border:solid red;
+    width: 100px;
+    height: 200px;
+    font-size: 200px;
+    padding: 40px;
+    border-radius: 25px;
+}
